@@ -1,0 +1,14 @@
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\bin\Debug\net10.0\TratamentoDeExceções.exe
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\bin\Debug\net10.0\TratamentoDeExceções.deps.json
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\bin\Debug\net10.0\TratamentoDeExceções.runtimeconfig.json
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\bin\Debug\net10.0\TratamentoDeExceções.dll
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\bin\Debug\net10.0\TratamentoDeExceções.pdb
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\obj\Debug\net10.0\TratamentoDeExceções.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\obj\Debug\net10.0\TratamentoDeExceções.AssemblyInfoInputs.cache
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\obj\Debug\net10.0\TratamentoDeExceções.AssemblyInfo.cs
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\obj\Debug\net10.0\TratamentoDeExceções.csproj.CoreCompileInputs.cache
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\obj\Debug\net10.0\TratamentoDeExceções.dll
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\obj\Debug\net10.0\refint\TratamentoDeExceções.dll
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\obj\Debug\net10.0\TratamentoDeExceções.pdb
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\obj\Debug\net10.0\TratamentoDeExceções.genruntimeconfig.cache
+D:\BACKUP\PROJETOS\C# curso\TratamentoDeExceções\TratamentoDeExceções\obj\Debug\net10.0\ref\TratamentoDeExceções.dll
