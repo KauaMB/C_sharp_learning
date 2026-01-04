@@ -1,0 +1,14 @@
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\bin\Debug\net10.0\Interfaces.exe
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\bin\Debug\net10.0\Interfaces.deps.json
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\bin\Debug\net10.0\Interfaces.runtimeconfig.json
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\bin\Debug\net10.0\Interfaces.dll
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\bin\Debug\net10.0\Interfaces.pdb
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.AssemblyInfoInputs.cache
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.AssemblyInfo.cs
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.dll
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\obj\Debug\net10.0\refint\Interfaces.dll
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.pdb
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.genruntimeconfig.cache
+D:\BACKUP\PROJETOS\C# curso\Interfaces\Interfaces\obj\Debug\net10.0\ref\Interfaces.dll
