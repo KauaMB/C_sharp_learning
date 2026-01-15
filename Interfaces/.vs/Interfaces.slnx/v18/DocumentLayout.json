@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2115ABF0-5D02-49C9-B217-E0AB963F0A5F}|Interfaces\\Interfaces.csproj|d:\\backup\\projetos\\c# curso\\interfaces\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2115ABF0-5D02-49C9-B217-E0AB963F0A5F}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|d:\\backup\\projetos\\c# curso\\interfaces\\interfaces\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2115ABF0-5D02-49C9-B217-E0AB963F0A5F}|Interfaces\\Interfaces.csproj|d:\\backup\\projetos\\c# curso\\interfaces\\interfaces\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2115ABF0-5D02-49C9-B217-E0AB963F0A5F}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|d:\\backup\\projetos\\c# curso\\interfaces\\interfaces\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2115ABF0-5D02-49C9-B217-E0AB963F0A5F}|Interfaces\\Interfaces.csproj|d:\\backup\\projetos\\c# curso\\interfaces\\interfaces\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2115ABF0-5D02-49C9-B217-E0AB963F0A5F}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|d:\\backup\\projetos\\c# curso\\interfaces\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|d:\\backup\\projetos\\c# curso\\interfaces\\interfaces\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|d:\\backup\\projetos\\c# curso\\interfaces\\interfaces\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|d:\\backup\\projetos\\c# curso\\interfaces\\interfaces\\interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|d:\\backup\\projetos\\c# curso\\interfaces\\interfaces\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|d:\\backup\\projetos\\c# curso\\interfaces\\interfaces\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +54,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\RentalService.cs",
+              "ToolTip": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Services\\RentalService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\RentalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T01:51:04.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\BrazilTaxService.cs",
+              "ToolTip": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T23:41:11.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interfaces.csproj",
+              "DocumentMoniker": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Interfaces.csproj",
+              "RelativeDocumentMoniker": "Interfaces\\Interfaces.csproj",
+              "ToolTip": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Interfaces.csproj",
+              "RelativeToolTip": "Interfaces\\Interfaces.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-10T23:40:28.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Entities\\Vehicle.cs",
+              "ToolTip": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Interfaces\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T23:07:24.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Entities\\Invoice.cs",
+              "ToolTip": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Entities\\Invoice.cs",
+              "RelativeToolTip": "Interfaces\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T23:07:29.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Entities\\CarRental.cs",
+              "ToolTip": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Entities\\CarRental.cs",
+              "RelativeToolTip": "Interfaces\\Entities\\CarRental.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T14:40:00.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DomainException.cs",
               "DocumentMoniker": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "Interfaces\\Exceptions\\DomainException.cs",
@@ -47,26 +142,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarRental.cs",
-              "DocumentMoniker": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Entities\\CarRental.cs",
-              "RelativeDocumentMoniker": "Interfaces\\Entities\\CarRental.cs",
-              "ToolTip": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Entities\\CarRental.cs",
-              "RelativeToolTip": "Interfaces\\Entities\\CarRental.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAADwvysAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T14:40:00.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Program.cs",
               "RelativeDocumentMoniker": "Interfaces\\Program.cs",
-              "ToolTip": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Program.cs*",
-              "RelativeToolTip": "Interfaces\\Program.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBQAAAA4AAAAAAAAAA==",
+              "ToolTip": "D:\\BACKUP\\PROJETOS\\C# curso\\Interfaces\\Interfaces\\Program.cs",
+              "RelativeToolTip": "Interfaces\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBcAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T14:25:46.997Z",
               "EditorCaption": ""

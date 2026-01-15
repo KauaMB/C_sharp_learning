@@ -15,17 +15,20 @@ namespace Interfaces
             {
                 Console.WriteLine("Enter rental data: ");
                 Console.Write("Car model: ");
-                string carModel = Console.ReadLine();
+                Vehicle carModel = new Vehicle(Console.ReadLine());
                 Console.Write("Pickup (dd/MM/yyyy hh:mm): ");
                 DateTime pickup = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy HH:mm", CultureInfo.InvariantCulture);
                 Console.Write("Return (dd/MM/yyyy hh:mm): ");
                 DateTime @return = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy HH:mm", CultureInfo.InvariantCulture);
+               
+                CarRental test = new CarRental(carModel, pickup, @return);
+
                 Console.Write("Enter price per hour: ");
                 double pricePerHour = double.Parse(Console.ReadLine());
                 Console.Write("Enter price per day: ");
                 double pricePerDay = double.Parse(Console.ReadLine());
 
-                CarRental test = new CarRental(carModel, pickup, @return, pricePerHour, pricePerDay);
+               
 
                 Console.WriteLine();
                 Console.WriteLine("INVOICE: ");

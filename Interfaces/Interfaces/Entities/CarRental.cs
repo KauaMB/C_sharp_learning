@@ -7,13 +7,12 @@ namespace Interfaces.Entities
 {
     internal class CarRental
     {
-        public string CarModel { get; set; }
+        public Vehicle CarModel { get; set; }
         public DateTime Pickup { get; set; }
         public DateTime Return { get; set; }
-        public double PricePerHour { get; set; }
-        public double PricePerDay { get; set; }
+        public Invoice Invoice { get; set; }
 
-        public CarRental(string carModel, DateTime pickup, DateTime @return, double pricePerHour, double pricePerDay)
+        public CarRental(Vehicle carModel, DateTime pickup, DateTime @return)
         {
             if (!(@return > pickup))
             {
@@ -23,8 +22,6 @@ namespace Interfaces.Entities
             CarModel = carModel;
             Pickup = pickup;
             Return = @return;
-            PricePerHour = pricePerHour;
-            PricePerDay = pricePerDay;
         }
 
         public double Duration()
@@ -51,15 +48,6 @@ namespace Interfaces.Entities
             return tax;
         }
 
-        public override string ToString()
-        {
-            StringBuilder sb = new StringBuilder();
-
-            sb.AppendLine($"Basic payment: {Payment():F2}");
-            sb.AppendLine($"Tax: {Tax():F2}");
-            sb.AppendLine($"Total payment: {(Payment() + Tax()):F2}");
-            
-            return sb.ToString();
-        }
+       
 }
 }
