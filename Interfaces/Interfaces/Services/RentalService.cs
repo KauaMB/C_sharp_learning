@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Interfaces.Entities;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,8 +7,30 @@ namespace Interfaces.Services
 {
     internal class RentalService
     {
-        public double PricePerHour { get; set; }
-        public double PricePerDay { get; set; }
+        public double PricePerHour { get; private set; }
+        public double PricePerDay { get; private set; }
 
+        public RentalService(double pricePerHour, double pricePerDay)
+        {
+            PricePerHour = pricePerHour;
+            PricePerDay = pricePerDay;
+        }
+
+        public void ProcessInvoice(CarRental carRental)
+        {
+            TimeSpan duration = carRental.Return - carRental.Pickup;
+
+            double basicPayment = 0;
+
+            if (duration.TotalHours <= 12)
+                basicPayment = PricePerHour *Math.Ceiling(duration.TotalHours);
+            else
+            {
+                double days = duration.TotalHours / 24;
+                basicPayment = PricePerDay *Math.Ceiling(days);
+            }
+
+            carRental.Invoice = new Invoice(basicPayment, BrazilTaxService.Tax(basicPayment));
+        }
     }
 }

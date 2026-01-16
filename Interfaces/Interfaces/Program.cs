@@ -1,5 +1,6 @@
 ﻿using Interfaces.Entities;
 using Interfaces.Exceptions;
+using Interfaces.Services;
 using System;
 using System.Globalization;
 using System.Linq.Expressions;
@@ -28,11 +29,14 @@ namespace Interfaces
                 Console.Write("Enter price per day: ");
                 double pricePerDay = double.Parse(Console.ReadLine());
 
+                RentalService rentalTest = new(pricePerHour, pricePerDay);
+
+                rentalTest.ProcessInvoice(test);
                
 
                 Console.WriteLine();
                 Console.WriteLine("INVOICE: ");
-                Console.WriteLine(test);
+                Console.WriteLine(test.Invoice);
 
             }
             catch (DomainException e)
