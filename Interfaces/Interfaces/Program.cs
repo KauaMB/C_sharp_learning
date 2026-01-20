@@ -29,7 +29,7 @@ namespace Interfaces
                 Console.Write("Enter price per day: ");
                 double pricePerDay = double.Parse(Console.ReadLine());
 
-                RentalService rentalTest = new(pricePerHour, pricePerDay);
+                RentalService rentalTest = new(pricePerHour, pricePerDay, new BrazilTaxService());
 
                 rentalTest.ProcessInvoice(test);
                

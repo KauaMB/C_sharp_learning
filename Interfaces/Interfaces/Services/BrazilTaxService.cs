@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Interfaces.Services
 {
-    internal class BrazilTaxService
+    internal class BrazilTaxService : ITaxService
     {
-        public  static double Tax(double amount)
+        public double Tax(double amount)
         {
             return (amount <= 100) ? (amount * 0.2) : (amount * 0.15);
         }
