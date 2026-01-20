@@ -1,0 +1,4 @@
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.0\InterfaceExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.0\InterfaceExercise.AssemblyInfoInputs.cache
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.0\InterfaceExercise.AssemblyInfo.cs
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.0\InterfaceExercise.csproj.CoreCompileInputs.cache
