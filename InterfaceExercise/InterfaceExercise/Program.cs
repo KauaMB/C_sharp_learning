@@ -1,4 +1,6 @@
-﻿using System;
+﻿using InterfaceExercise.Entities;
+using InterfaceExercise.Services;
+using System.ComponentModel;
 using System.Globalization;
 
 namespace InterfaceExercise
@@ -14,14 +16,20 @@ namespace InterfaceExercise
             DateTime date = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy", CultureInfo.InvariantCulture);
             Console.Write("Contract value: ");
             double value = double.Parse(Console.ReadLine());
+            @Contract myContract = new Contract(number, date, value);
 
             Console.Write("Enter number of installments: ");
-            int numberOfIntallments = int.Parse(Console.ReadLine());
+            int months = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < numberOfIntallments; i++)
+            ContractService cs = new ContractService(new PaypalService());
+
+            cs.ProcessContract(myContract, months);
+
+            foreach (Installment ins in myContract.Installments)
             {
-
+                Console.WriteLine($"{ins.DueDate} - {ins.Amount:F2}");
             }
+
         }
     }
 }

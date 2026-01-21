@@ -2,3 +2,13 @@ D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.
 D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.0\InterfaceExercise.AssemblyInfoInputs.cache
 D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.0\InterfaceExercise.AssemblyInfo.cs
 D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.0\InterfaceExercise.csproj.CoreCompileInputs.cache
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\bin\Debug\net10.0\InterfaceExercise.exe
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\bin\Debug\net10.0\InterfaceExercise.deps.json
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\bin\Debug\net10.0\InterfaceExercise.runtimeconfig.json
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\bin\Debug\net10.0\InterfaceExercise.dll
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\bin\Debug\net10.0\InterfaceExercise.pdb
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.0\InterfaceExercise.dll
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.0\refint\InterfaceExercise.dll
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.0\InterfaceExercise.pdb
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.0\InterfaceExercise.genruntimeconfig.cache
+D:\BACKUP\PROJETOS\C# curso\InterfaceExercise\InterfaceExercise\obj\Debug\net10.0\ref\InterfaceExercise.dll
