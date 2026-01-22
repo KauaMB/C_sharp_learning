@@ -1,0 +1,14 @@
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\bin\Debug\net10.0\MultipleInherianceProblem.exe
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\bin\Debug\net10.0\MultipleInherianceProblem.deps.json
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\bin\Debug\net10.0\MultipleInherianceProblem.runtimeconfig.json
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\bin\Debug\net10.0\MultipleInherianceProblem.dll
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\bin\Debug\net10.0\MultipleInherianceProblem.pdb
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\obj\Debug\net10.0\MultipleInherianceProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\obj\Debug\net10.0\MultipleInherianceProblem.AssemblyInfoInputs.cache
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\obj\Debug\net10.0\MultipleInherianceProblem.AssemblyInfo.cs
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\obj\Debug\net10.0\MultipleInherianceProblem.csproj.CoreCompileInputs.cache
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\obj\Debug\net10.0\MultipleInherianceProblem.dll
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\obj\Debug\net10.0\refint\MultipleInherianceProblem.dll
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\obj\Debug\net10.0\MultipleInherianceProblem.pdb
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\obj\Debug\net10.0\MultipleInherianceProblem.genruntimeconfig.cache
+D:\BACKUP\PROJETOS\C# curso\MultipleInherianceProblem\MultipleInherianceProblem\obj\Debug\net10.0\ref\MultipleInherianceProblem.dll
