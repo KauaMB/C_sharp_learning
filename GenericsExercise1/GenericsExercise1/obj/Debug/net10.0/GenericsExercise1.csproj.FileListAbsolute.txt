@@ -1,0 +1,14 @@
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\obj\Debug\net10.0\GenericsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\obj\Debug\net10.0\GenericsExercise1.AssemblyInfoInputs.cache
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\obj\Debug\net10.0\GenericsExercise1.AssemblyInfo.cs
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\obj\Debug\net10.0\GenericsExercise1.csproj.CoreCompileInputs.cache
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\bin\Debug\net10.0\GenericsExercise1.exe
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\bin\Debug\net10.0\GenericsExercise1.deps.json
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\bin\Debug\net10.0\GenericsExercise1.runtimeconfig.json
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\bin\Debug\net10.0\GenericsExercise1.dll
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\bin\Debug\net10.0\GenericsExercise1.pdb
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\obj\Debug\net10.0\GenericsExercise1.dll
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\obj\Debug\net10.0\refint\GenericsExercise1.dll
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\obj\Debug\net10.0\GenericsExercise1.pdb
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\obj\Debug\net10.0\GenericsExercise1.genruntimeconfig.cache
+D:\BACKUP\PROJETOS\C# curso\GenericsExercise1\GenericsExercise1\obj\Debug\net10.0\ref\GenericsExercise1.dll
