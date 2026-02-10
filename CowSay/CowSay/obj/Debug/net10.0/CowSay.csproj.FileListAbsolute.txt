@@ -1,0 +1,14 @@
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\bin\Debug\net10.0\CowSay.exe
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\bin\Debug\net10.0\CowSay.deps.json
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\bin\Debug\net10.0\CowSay.runtimeconfig.json
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\bin\Debug\net10.0\CowSay.dll
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\bin\Debug\net10.0\CowSay.pdb
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\obj\Debug\net10.0\CowSay.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\obj\Debug\net10.0\CowSay.AssemblyInfoInputs.cache
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\obj\Debug\net10.0\CowSay.AssemblyInfo.cs
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\obj\Debug\net10.0\CowSay.csproj.CoreCompileInputs.cache
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\obj\Debug\net10.0\CowSay.dll
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\obj\Debug\net10.0\refint\CowSay.dll
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\obj\Debug\net10.0\CowSay.pdb
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\obj\Debug\net10.0\CowSay.genruntimeconfig.cache
+D:\BACKUP\PROJETOS\C# curso\CowSay\CowSay\obj\Debug\net10.0\ref\CowSay.dll
